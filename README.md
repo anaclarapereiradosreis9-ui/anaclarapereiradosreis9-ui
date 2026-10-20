@@ -6,3 +6,6 @@
 
 <br>
 <br>
+ <div aling="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=anaclarapereiradosreis9-ui&theme=blue-navy&locale=pt_BR&card_width=1000&type=png" alt="GitHub Streak" /></a>
+ </div>
