@@ -9,12 +9,13 @@
  <div aling="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=anaclarapereiradosreis9-ui&theme=blue-navy&locale=pt_BR&card_width=1000&type=png" alt="GitHub Streak" /></a>
  </div>
+ 
 <div align="center">
 <a href="https://www.instagram.com/anacalra92/" target="_blank">
 <img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b" alt="Instagram">
 </a>
 </div>
 
-<div align="center" >
- [Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/anaclarapereiradosreis9-ui?chart=3dbar&gap=0.6&scale=2&flatten=1&gradient=false&legend=true&legendPosition=bottomLeft&legendDirection=row&strokeWidth=2&strokeColor=222222&animation=mess&animation_duration=4&animation_loop=true&format=html&weeks=30&theme=blue&dark=true)
+<div align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/anaclarapereiradosreis9-ui?chart=3dbar&gap=0.6&scale=2&flatten=1&gradient=false&legend=true&legendPosition=bottomLeft&legendDirection=row&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=30&theme=blue&dark=true" alt="GitHub Contributions Graph" />
 </div>
